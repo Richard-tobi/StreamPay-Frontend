@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1741-compute-vested-amounts-with-bigint-and-pause",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1741-compute-vested-amounts-with-bigint-and-pause": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1741-compute-vested-amounts-with-bigint-and-pause",
+    "origin"
+  ]
+}
